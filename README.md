@@ -3,8 +3,7 @@ Live demo: https://zwitter-drab.vercel.app/
 TODO
 
 1. fix profile pictures shape inconsistency
-2. Notifications page redirects to home "/" instead of showing notifcations page
-3. add tests
+2. add tests
 
 //https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/vercel-caching-issue
 
